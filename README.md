@@ -8,4 +8,4 @@ Este projeto é um computador de bordo que faz a verificação de quando o usuá
 - Pseudocódigo
 
 ## Pitch Apresentação
-Link: disponível a partir do dia 25/09
+**Link:** disponível a partir do dia 25/09
